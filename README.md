@@ -1,0 +1,2 @@
+# jsminproject
+mini js project 
